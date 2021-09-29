@@ -47,5 +47,6 @@ import java.util.Scanner;
 
             /* zad.3 wpisz z klawiatury liczbę zmiennoprzecinkową (użyj klasy Scanner z poprzednich ćwiczeń)
              * i stwórz konstrukcję else if z dowolnymi komunikatami */
+
         }
     }
